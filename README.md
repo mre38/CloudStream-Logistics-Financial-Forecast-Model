@@ -34,14 +34,14 @@ The model is built on a set of conservative yet growth-oriented assumptions for 
 
 ---
 
-## 3. Financial Health Analysis
+## Financial Health Analysis
 
 ####  Is the company generating enough cash to stay healthy?**
  The model shows a very strong cash trajectory. The ending cash balance grows from **$18,000 in 2023 to over $70,000 by 2028**
 
 ---
 
-## 4. Technical Features of the Model
+## Technical Features of the Model
 
 ###  Fully Integrated Circularity
 The "Ending Cash" from the Cash Flow Statement automatically updates the "Cash" line on the Balance Sheet. This integration ensures the model always stays in balance and reflects the true liquidity of the firm.
